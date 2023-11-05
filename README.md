@@ -1,7 +1,7 @@
 
 # Bank Complaint Analysis Using Deep Learning LSTM
 
-This project aims to automate the analysis of a large dataset of more than 10 lakh text complaints submitted to a bank. Analyzing such a vast volume of complaints manually is impractical. To address this challenge, we employed a deep learning algorithm based on Long Short-Term Memory (LSTM) neural networks for sentiment analysis and classification.
+This project aims to automate the analysis of a large dataset of more than 10 lakh text complaints submitted to a bank. Analyzing such a vast volume of complaints manually is impractical. To address this challenge, I employed a deep learning algorithm based on Long Short-Term Memory (LSTM) neural networks for sentiment analysis and classification.
 
 ## Screenshots
 
@@ -48,14 +48,14 @@ Other financial service
 
 Virtual currency
 
-I convert these 18 department into 7 most import department 
+I convert these 18 department into 7 most import department.
 to know that you can click the screenshot link https://drive.google.com/file/d/1cx5fkLrPO9UmfPgIWhy1lhQeocyCH4D8/view?usp=drive_link
 
 
 ## Techniques/Methods used
-We utilized a deep learning model, specifically an LSTM (Long Short-Term Memory) neural network, to perform sentiment analysis on the text complaints.
+I utilized a deep learning model, specifically an LSTM (Long Short-Term Memory) neural network, to perform sentiment analysis on the text complaints.
 
-Also i have used libraries like Numpy, pandas for data manipulation ,I imported Matplotlib, seaborn to visualize how many complaints registered for which department but i didnt used because methamtically i got the answer.
+Also I have used libraries like Numpy, pandas for data manipulation ,I imported Matplotlib, seaborn to visualize how many complaints registered for which department but i didnt used because methamtically i got the answer.
 
 Imported warnings warnings.filterwarnings("ignore"), imported re (regex) , imported BeautifulSoupas , as i have used WordNetLametizer to perform lemmatization on text complaints.
 
@@ -63,7 +63,7 @@ I have also used train_test_split to split data into train and test set , then i
 
 I have used pad_sequence as well ,as it stacks a list of tokens along a new dimension, and pads them to equal lenth 
 
-Then i imported Dense , Input , LSTM , Embedding, Activation from keras.layers , i also imported Model, sequential from keras , then i imported initializers, regularizers, constraints, optimizers,layers from keras to execute the model and then i compiled the model  to predict the output.
+Then I imported Dense , Input , LSTM , Embedding, Activation from keras.layers , i also imported Model, sequential from keras , then i imported initializers, regularizers, constraints, optimizers,layers from keras to execute the model and then i compiled the model  to predict the output.
 
 This model can understand the sentiment expressed in each complaint and categorize it into one of the relevant departments.
 ## Data
