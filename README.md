@@ -49,9 +49,7 @@ Other financial service
 Virtual currency
 
 I convert these 18 department into 7 most import department.
-to know that you can click the screenshot link https://drive.google.com/file/d/1cx5fkLrPO9UmfPgIWhy1lhQeocyCH4D8/view?usp=drive_link
-
-
+to know that you can click the screenshot link https://drive.google.com/file/d/1fwPxJHj9A9mrBMKU6_C_5IOP2cgY5VxK/view?usp=sharing
 ## Techniques/Methods used
 I utilized a deep learning model, specifically an LSTM (Long Short-Term Memory) neural network, to perform sentiment analysis on the text complaints.
 
