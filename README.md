@@ -52,7 +52,7 @@ I convert these 18 department into 7 most import department
 to know that you can click the screenshot link https://drive.google.com/file/d/1cx5fkLrPO9UmfPgIWhy1lhQeocyCH4D8/view?usp=drive_link
 
 
-## Techniques/Methos used
+## Techniques/Methods used
 We utilized a deep learning model, specifically an LSTM (Long Short-Term Memory) neural network, to perform sentiment analysis on the text complaints.
 
 Also i have used libraries like Numpy, pandas for data manipulation ,I imported Matplotlib, seaborn to visualize how many complaints registered for which department but i didnt used because methamtically i got the answer.
