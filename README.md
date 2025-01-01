@@ -1,5 +1,5 @@
 
-# Bank Complaint Analysis Using Deep Learning LSTM
+# Automated Customer Feedback and Complaint Analysis Using Deep Learning LSTM
 
 This project aims to automate the analysis of a large dataset of more than 10 lakh text complaints submitted to a bank. Analyzing such a vast volume of complaints manually is impractical. To address this challenge, I employed a deep learning algorithm based on Long Short-Term Memory (LSTM) neural networks for sentiment analysis and classification.
 
